@@ -1,0 +1,14 @@
+.item {
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  
+  .lista_grande {
+    margin: 1.5rem;
+    font-size: 1.2rem;
+  }
+  
+  .otro {
+    background-color: #303030;
+    color: #fff;
+  }
